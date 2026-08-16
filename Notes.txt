@@ -1,0 +1,8 @@
+Notes
+/* used to add comments
+// used to comment-out code
+Code Outline#include <stdio.h>: Includes the standard input-output library needed for printing text.
+int main(): The starting point where the computer begins executing the program.
+puts(...): Sends a specific line of text to the screen and adds a new line.
+return(0);: Tells the operating system that the program ran and finished without any errors.
+
