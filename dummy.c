@@ -1,4 +1,8 @@
+#include <studio.h>
+
 int main() 
 {
-    return(3)
+    puts("Thrilled to meet");
+
+    return(0)
 }
