@@ -1,8 +1,8 @@
-#include <studio.h>
+#include <stdio.h>
 
 int main() 
 {
     puts("Thrilled to meet");
 
-    return(0)
+    return(0);
 }
